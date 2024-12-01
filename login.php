@@ -15,7 +15,7 @@ body{
     background-size: cover;
 }
 
-
+///
 .logindiv{
     background-color: white;
     border-radius: 20px;
